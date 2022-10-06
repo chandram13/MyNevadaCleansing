@@ -10,5 +10,5 @@ const PORT = 9000;
 app.use(bodyParser.json());
 app.use('/users', usersRoutes)
 
-app.get('/',(req, res) => res.send('Hello from Homepage.'));
+app.get('/',(req, res) => res.send('Welcome to Eforea Spa at the Hilton Grand Vacation Club on the Las Vegas Strip.'));
 app.listen(PORT, () => console.log(`Server Running on port: http://localhost:${PORT}`));
