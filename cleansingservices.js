@@ -82,4 +82,3 @@ class cleansingServices{
         your_worth_it = {Time: 200, Price: 410, Description:"50 Minute Aromatherapy Massage, 50 min Custom Facial, Classic Pedicure 50 min, Classic Manicure 50 min"};
 
     }
-}
