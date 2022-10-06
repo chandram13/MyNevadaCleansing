@@ -1,15 +1,6 @@
 // Marvish Chandra
 
 class cleansingServices{
-    function appetizers(){
-        fritto_misto_italiano = 13.50;
-        calamariFritti = 13.95;
-        olive_Allascolana = 13.95;
-        pizzaDoppia = 15.50;
-        bruschettaFresca = 12.50;
-        Cocktail_Di_Gamberi = 16.60;
-        Salumeria_Da_Matteo = "Create your own, price may vary";
-    }
     function massages(){
         fall_swediesh_massage_special = {Time: 50, Price: 140, Description:"Swedish techniques during this popular full-body massage with essential Pumpkin Spice oil to relax your entire body and improve circulation. This treatment uses light to medium pressure."};
         hundredmin_aromatherapy = {Time: 100, Price: 320, Description:"Our aromatherapy massage uses relaxing Swedish techniques combined with essential oil to help uplift, calm & balance your energy. This experience will ease fatigue and exhaustion while soothing the over-stressed nervous system. Choose the aromatherapy scent that you like best from a variety of essential oils such as Peppermint, Eucalyptus and Warm Lavender, Tea Tree, Lemongrass, and Sweet Orange for this Swedish massage."};
